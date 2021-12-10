@@ -607,6 +607,7 @@
       },
       "1566460870233": {
         "type": "home-image-text",
+        "disabled": true,
         "settings": {
           "section_full_width": true,
           "image_alignment": "top",
@@ -801,8 +802,8 @@
         "settings": {
           "main_text": "Tat vape offers a wide range of fully customizable options for your Brands needs and desires.",
           "background_color": "linear-gradient(to top, #222, #ff0000)",
-          "title_color": "#0d0303",
-          "subtitle_color": "#666666",
+          "title_color": "#faf4f4",
+          "subtitle_color": "#FFFFFF",
           "btn_label": "see all Products",
           "btn_url": "",
           "full_width": true,
@@ -820,19 +821,16 @@
           },
           "38e7be11-81de-4d80-8d4f-71a7c5cbd430": {
             "type": "product",
-            "disabled": true,
             "settings": {
             }
           },
           "ed3b8b0a-940d-47fd-817c-0bfc49c5a846": {
             "type": "product",
-            "disabled": true,
             "settings": {
             }
           },
           "c768b7ec-6a3f-4573-bc0f-18475ffcc0dd": {
             "type": "product",
-            "disabled": true,
             "settings": {
             }
           }
@@ -857,7 +855,7 @@
       "1626756849bcce0941": {
         "type": "home-collection",
         "settings": {
-          "title": "Vape Cartridges",
+          "title": "Vape Devices",
           "collection": "all",
           "mobile_layout": "carousel",
           "grid": 3,
@@ -870,7 +868,7 @@
       "1626756981bf0a3f88": {
         "type": "home-collection",
         "settings": {
-          "title": "Disposables",
+          "title": "SHisha \/ Hookah",
           "collection": "pipe-vape",
           "mobile_layout": "carousel",
           "grid": 3,
@@ -883,7 +881,7 @@
       "1626757837fddad0c1": {
         "type": "home-collection",
         "settings": {
-          "title": "Batteries",
+          "title": "Disposable Vapes",
           "collection": "metal-vape",
           "mobile_layout": "carousel",
           "grid": 3,
@@ -895,6 +893,7 @@
       },
       "162675808293b66050": {
         "type": "custom-img-with-text",
+        "disabled": true,
         "blocks": {
           "81c5e0a4-af1d-4cc3-981d-5b64dfe6177e": {
             "type": "text",
@@ -959,13 +958,6 @@
       "16255604901ee67471": {
         "type": "custom-feature-product",
         "blocks": {
-          "35d02c99-132e-403e-a8c5-e8bf9a6b2177": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "feature_dropdown": "over_discharge"
-            }
-          },
           "7d648c09-92ec-4667-a593-3282f2e088a9": {
             "type": "collection",
             "disabled": true,
@@ -996,7 +988,6 @@
           }
         },
         "block_order": [
-          "35d02c99-132e-403e-a8c5-e8bf9a6b2177",
           "7d648c09-92ec-4667-a593-3282f2e088a9",
           "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f",
           "a04c5fec-1365-4d88-b785-661da79eb170",
