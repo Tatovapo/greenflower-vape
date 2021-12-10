@@ -92,7 +92,6 @@
           "fca90525-3f80-4cd5-9774-f0f8e7780b96": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/green-flower-vape_daf1ad08-58e6-4c58-b0c0-050fb360402d.png",
               "image_width": 250,
               "link": "shopify:\/\/collections\/frontpage"
             }
@@ -101,14 +100,14 @@
             "type": "linklist",
             "settings": {
               "title": "Pages",
-              "linklist": "pages"
+              "linklist": ""
             }
           },
           "1494463355206": {
             "type": "linklist",
             "settings": {
               "title": "Legal",
-              "linklist": "legal"
+              "linklist": ""
             }
           },
           "1494343958665": {
@@ -149,11 +148,10 @@
           "show_border": true,
           "header_bg": "#222222",
           "header_style": "light",
-          "logo": "shopify:\/\/shop_images\/green-flower-vape_daf1ad08-58e6-4c58-b0c0-050fb360402d.png",
           "logo_size": 6,
           "logo_size_mobile": 6,
           "logo_spacing": 10,
-          "main_linklist": "new-custom-menu",
+          "main_linklist": "",
           "layout": "left",
           "style": "scroll",
           "parent_links": true,
@@ -177,6 +175,7 @@
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_social": true,
+          "cta_image": "shopify:\/\/shop_images\/unnamed.jpg",
           "cta_image_link": "",
           "cta_title": "",
           "cta_text": "",
@@ -202,7 +201,6 @@
         "type": "age-checker",
         "settings": {
           "enable": true,
-          "image": "shopify:\/\/shop_images\/davide-ragusa-9tgZkqA3W0Y-unsplash_1_1.jpg",
           "title": "Age verification",
           "text": "<p>By clicking enter you are verifying that you are over 18<\/p>",
           "enter_btn_label": "Enter",
@@ -459,7 +457,6 @@
             "type": "text",
             "settings": {
               "media": "quote",
-              "image": "shopify:\/\/shop_images\/lucas-clarysse-Kcv7wgMX2DI-unsplash_1.jpg",
               "image_round": true,
               "text": "I smoked for over 30 years. I assumed that I would die from smoking. But vaping saved me!!",
               "name": "SHAWN",
@@ -470,7 +467,6 @@
             "type": "text",
             "settings": {
               "media": "quote",
-              "image": "shopify:\/\/shop_images\/chiara-summer-mO9EzDBd5nI-unsplash_1_1.jpg",
               "image_round": true,
               "text": "I never thought I'd quit smoking. Which was scary, as I knew it would kill me, but I just couldn't. But when I started vaping, things changed for good.",
               "name": "Sabrina Smith",
@@ -481,7 +477,6 @@
             "type": "text",
             "settings": {
               "media": "quote",
-              "image": "shopify:\/\/shop_images\/itay-kabalo-Un4hgKZs6og-unsplash_1.jpg",
               "image_round": true,
               "text": "I used to smoke 1.5 packs of cigarettes a day. I smoked my last cigarette about four years ago, when I started vaping.",
               "name": "Fooshang",
@@ -509,7 +504,6 @@
           "1566456304723-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vaporesso-jQSgioaqhpM-unsplash_1.jpg",
               "bg_color": "#f0f0f0",
               "title": "Complete freedom in design & customization",
               "desc": "<p>We allow you complete control over the design and development product - in order to create a product that correctly conveys your brand. Our product design studio works with you to transform your brand vision into a remarkable vaping experience. Whether you have an in-house team and require basic guidance or you need us to design the entire product from start to finish - we got you covered. <\/p>",
@@ -521,7 +515,6 @@
           "1566456304723-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/bg.jpg",
               "bg_color": "#ffffff",
               "title": "Complete Testing Protocol",
               "desc": "<p>Before your product is mass-produced, we work closely with your team to ensure that the hardware you selected is a good fit for your process and most importantly - your concentrate. To ensure this, our client services team works with you to implement a rigorous testing protocol and gather any feedback that will allow us to perfect the end product for your specific application. <\/p>",
@@ -535,7 +528,8 @@
           "1566456304723-0",
           "1566456304723-1"
         ],
-        "settings": {}
+        "settings": {
+        }
       },
       "1566456319558": {
         "type": "home-video",
@@ -578,8 +572,7 @@
               "title": "Map 1",
               "desc": "<p>273 Street Lane<br\/>San Francisco, CA 94102<br\/>(415) 557-4400<br\/>store@email.com<\/p>",
               "sub_desc": "<p>Monday - Thursday, 12:00 to 23:00<br\/>Friday & Saturday, 12:00 to 00:00<br\/>Sunday, Closed<\/p>",
-              "address": "100 Larkin St, San Francisco, CA 94102, USA",
-              "map_image": "shopify:\/\/shop_images\/map.png"
+              "address": "100 Larkin St, San Francisco, CA 94102, USA"
             }
           }
         },
@@ -616,7 +609,6 @@
       "1566460870233": {
         "type": "home-image-text",
         "settings": {
-          "bg_image": "shopify:\/\/shop_images\/cyqoo-vape-factory.jpg",
           "section_full_width": true,
           "image_alignment": "top",
           "text": "<p>No matter which Vaping product you select, you'll find <strong>Green Flower Vape <\/strong>suits your needs. Click below to browse all of our collections.<\/p>",
@@ -637,7 +629,6 @@
           "18c6bc50-dbdd-403d-aaf7-70fa1e130a36": {
             "type": "event",
             "settings": {
-              "image": "shopify:\/\/shop_images\/04057a5e14969bfe0de166f3c918f7a2.jpg",
               "title": "Global Forum on Nicotine 2021",
               "subheading": "Denver",
               "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
@@ -647,7 +638,6 @@
           "313367b1-c4a4-452b-8b23-cb87f407d07e": {
             "type": "event",
             "settings": {
-              "image": "shopify:\/\/shop_images\/1441b03e912460f5acb6f1e83062be4a.jpg",
               "title": "National Vape Expo",
               "subheading": "Liverpool",
               "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
@@ -657,7 +647,6 @@
           "75132f19-37c2-4d99-8089-4c6ffccccebb": {
             "type": "event",
             "settings": {
-              "image": "shopify:\/\/shop_images\/vape-shop-insurance.jpg",
               "title": "Tobacco Research Conference",
               "subheading": "Zürich",
               "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
@@ -667,7 +656,6 @@
           "9f5a0681-bc6e-49b2-b94f-98f354659fc9": {
             "type": "event",
             "settings": {
-              "image": "shopify:\/\/shop_images\/5324.jpg",
               "title": "The HempWorld Expo",
               "subheading": "Berlin",
               "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
@@ -701,7 +689,6 @@
           "1566460912234-0": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/cardimg1_1.jpg",
               "title": "Atomizer",
               "sub_title": "",
               "desc": "<p>An “atomizer” used to refer to the coil of any vape tank, the part that is responsible for vaporizing e-liquid.<\/p>"
@@ -710,7 +697,6 @@
           "1566460912234-1": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/cardimg2_1.jpg",
               "title": "Clearomizer",
               "sub_title": "",
               "desc": "<p>Clearomizers usually comprise of a glass or plastic clear tank, a replaceable coil, a chimney, and a mouthpiece.<\/p>"
@@ -719,7 +705,6 @@
           "1566460912234-2": {
             "type": "text",
             "settings": {
-              "image": "shopify:\/\/shop_images\/cardimg3_1.jpg",
               "title": "cartomizer",
               "sub_title": "",
               "desc": "<p>A cartomizer is a vaping device that attaches to the end of a battery. They are also commonly referred to as cigalikes or just e-cigarettes. <\/p>"
@@ -809,7 +794,6 @@
         ],
         "settings": {
           "main_text": "Green Flower Vape offers a wide range of fully customizable options for your Brands needs and desires.",
-          "section_img": "shopify:\/\/shop_images\/product_1_retouch.png",
           "background_color": "linear-gradient(to top, #000, #399d48)",
           "title_color": "#ffffff",
           "subtitle_color": "#ffffff",
@@ -825,25 +809,21 @@
           "01e78a1c-1ad8-46f3-8c57-ed88b5adf5c7": {
             "type": "product",
             "settings": {
-              "product_image": "shopify:\/\/shop_images\/product_1_retouch.png"
             }
           },
           "38e7be11-81de-4d80-8d4f-71a7c5cbd430": {
             "type": "product",
             "settings": {
-              "product_image": "shopify:\/\/shop_images\/prodcut_4_25c0fa84-809d-4344-a5b6-718399109a08.png"
             }
           },
           "ed3b8b0a-940d-47fd-817c-0bfc49c5a846": {
             "type": "product",
             "settings": {
-              "product_image": "shopify:\/\/shop_images\/product_5.png"
             }
           },
           "c768b7ec-6a3f-4573-bc0f-18475ffcc0dd": {
             "type": "product",
             "settings": {
-              "product_image": "shopify:\/\/shop_images\/product_6.png"
             }
           }
         },
@@ -854,12 +834,13 @@
           "c768b7ec-6a3f-4573-bc0f-18475ffcc0dd"
         ],
         "settings": {
-          "title_left": "Industry-leading",
-          "title_right": "Vape Provide",
-          "background_color": "",
+          "title_left": "your one stop shop for your vape needs",
+          "title_right": "",
+          "background_img": "shopify:\/\/shop_images\/shrouded-in-smoke.jpg",
+          "background_color": "#FF0000",
           "title_color": "#ffffff",
           "full_width": true,
-          "background_animation": true,
+          "background_animation": false,
           "circle_animation": true
         }
       },
@@ -907,7 +888,6 @@
         "settings": {
           "section_title": "Green Flower A-Z Process",
           "section_subtitle": "Bring your brand to the marketplace today!",
-          "product_img": "shopify:\/\/shop_images\/pro_1.png",
           "color": "",
           "background_color": ""
         }
@@ -987,7 +967,6 @@
         ],
         "settings": {
           "main_text": "Cartridges, disposables, and batteries you can bank on",
-          "section_img": "shopify:\/\/shop_images\/product_5.png",
           "background_color": "linear-gradient(to top, #000, #013b81)",
           "title_color": "#ffffff",
           "subtitle_color": "#eeff9f",
@@ -1593,7 +1572,8 @@
             "1566456304723-0",
             "1566456304723-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "1566456319558": {
           "type": "home-video",
@@ -2210,7 +2190,8 @@
             "1566456304723-0",
             "1566456304723-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "1566456319558": {
           "type": "home-video",
