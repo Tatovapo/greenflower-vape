@@ -451,7 +451,6 @@
       },
       "1566456283593": {
         "type": "home-testimonials",
-        "disabled": true,
         "blocks": {
           "1566456283593-0": {
             "type": "text",
@@ -491,7 +490,7 @@
         ],
         "settings": {
           "title": "REAL PEOPLE. REAL STORIES.",
-          "style_desktop": "carousel",
+          "style_desktop": "featured-grid",
           "style_mobile": "carousel",
           "link_title": "Shop now",
           "link": ""
@@ -764,25 +763,31 @@
           "1b514bb8-9459-4222-9632-b683839cd990": {
             "type": "text",
             "settings": {
-              "text": "Vape Cartridges"
+              "text": "Vape Devices"
             }
           },
           "3547e7d8-37c1-492b-bda7-58dff05d8b52": {
             "type": "text",
             "settings": {
-              "text": "Disposalebles"
+              "text": "E-Liquds"
             }
           },
           "0ca12c69-54ca-492c-b6dd-9116bfb6a09c": {
             "type": "text",
             "settings": {
-              "text": "Batteries"
+              "text": "Shisha \/ Hookah"
             }
           },
           "bd696b82-b867-432d-9c4f-6942fad597db": {
             "type": "text",
             "settings": {
-              "text": "Packaing"
+              "text": "Disposable Vapes"
+            }
+          },
+          "ab924ac6-b243-4c49-bca8-01cf2be0aa9e": {
+            "type": "text",
+            "settings": {
+              "text": "Pods & Coils"
             }
           }
         },
@@ -790,14 +795,15 @@
           "1b514bb8-9459-4222-9632-b683839cd990",
           "3547e7d8-37c1-492b-bda7-58dff05d8b52",
           "0ca12c69-54ca-492c-b6dd-9116bfb6a09c",
-          "bd696b82-b867-432d-9c4f-6942fad597db"
+          "bd696b82-b867-432d-9c4f-6942fad597db",
+          "ab924ac6-b243-4c49-bca8-01cf2be0aa9e"
         ],
         "settings": {
-          "main_text": "Green Flower Vape offers a wide range of fully customizable options for your Brands needs and desires.",
-          "background_color": "linear-gradient(to top, #000, #399d48)",
-          "title_color": "#ffffff",
-          "subtitle_color": "#ffffff",
-          "btn_label": "Let's Talk",
+          "main_text": "Tat vape offers a wide range of fully customizable options for your Brands needs and desires.",
+          "background_color": "linear-gradient(to top, #222, #ff0000)",
+          "title_color": "#0d0303",
+          "subtitle_color": "#666666",
+          "btn_label": "see all Products",
           "btn_url": "",
           "full_width": true,
           "row_reverse": false
@@ -814,16 +820,19 @@
           },
           "38e7be11-81de-4d80-8d4f-71a7c5cbd430": {
             "type": "product",
+            "disabled": true,
             "settings": {
             }
           },
           "ed3b8b0a-940d-47fd-817c-0bfc49c5a846": {
             "type": "product",
+            "disabled": true,
             "settings": {
             }
           },
           "c768b7ec-6a3f-4573-bc0f-18475ffcc0dd": {
             "type": "product",
+            "disabled": true,
             "settings": {
             }
           }
@@ -843,54 +852,6 @@
           "full_width": true,
           "background_animation": false,
           "circle_animation": true
-        }
-      },
-      "16255604901ee67471": {
-        "type": "custom-feature-product",
-        "blocks": {
-          "35d02c99-132e-403e-a8c5-e8bf9a6b2177": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "over_charge"
-            }
-          },
-          "7d648c09-92ec-4667-a593-3282f2e088a9": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "over_discharge"
-            }
-          },
-          "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "over_current"
-            }
-          },
-          "a04c5fec-1365-4d88-b785-661da79eb170": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "over_seconds"
-            }
-          },
-          "33a419c9-4cb8-435c-b0a9-e7338c07640d": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "short_circuit"
-            }
-          }
-        },
-        "block_order": [
-          "35d02c99-132e-403e-a8c5-e8bf9a6b2177",
-          "7d648c09-92ec-4667-a593-3282f2e088a9",
-          "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f",
-          "a04c5fec-1365-4d88-b785-661da79eb170",
-          "33a419c9-4cb8-435c-b0a9-e7338c07640d"
-        ],
-        "settings": {
-          "section_title": "Green Flower A-Z Process",
-          "section_subtitle": "Bring your brand to the marketplace today!",
-          "color": "",
-          "background_color": ""
         }
       },
       "1626756849bcce0941": {
@@ -971,7 +932,7 @@
           "background_color": "linear-gradient(to top, #000, #013b81)",
           "title_color": "#ffffff",
           "subtitle_color": "#eeff9f",
-          "btn_label": "Test Cartridges",
+          "btn_label": "",
           "btn_url": "#",
           "full_width": true,
           "row_reverse": true
@@ -993,6 +954,59 @@
           "full_width": false,
           "section_title": "",
           "text": ""
+        }
+      },
+      "16255604901ee67471": {
+        "type": "custom-feature-product",
+        "blocks": {
+          "35d02c99-132e-403e-a8c5-e8bf9a6b2177": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "feature_dropdown": "over_discharge"
+            }
+          },
+          "7d648c09-92ec-4667-a593-3282f2e088a9": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "feature_dropdown": "over_discharge"
+            }
+          },
+          "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "feature_dropdown": "over_current"
+            }
+          },
+          "a04c5fec-1365-4d88-b785-661da79eb170": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "feature_dropdown": "over_seconds"
+            }
+          },
+          "33a419c9-4cb8-435c-b0a9-e7338c07640d": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "feature_dropdown": "short_circuit"
+            }
+          }
+        },
+        "block_order": [
+          "35d02c99-132e-403e-a8c5-e8bf9a6b2177",
+          "7d648c09-92ec-4667-a593-3282f2e088a9",
+          "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f",
+          "a04c5fec-1365-4d88-b785-661da79eb170",
+          "33a419c9-4cb8-435c-b0a9-e7338c07640d"
+        ],
+        "settings": {
+          "section_title": "TAT vape Products",
+          "section_subtitle": "",
+          "color": "#ff0000",
+          "background_color": ""
         }
       }
     },
