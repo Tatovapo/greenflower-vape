@@ -89,18 +89,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "fca90525-3f80-4cd5-9774-f0f8e7780b96": {
-            "type": "image",
-            "settings": {
-              "image_width": 250,
-              "link": "shopify:\/\/collections\/frontpage"
-            }
-          },
           "73cea438-ccd5-4bae-a8fb-3293fad4657e": {
             "type": "linklist",
             "settings": {
-              "title": "Pages",
-              "linklist": ""
+              "title": "Links",
+              "linklist": "main-menu"
             }
           },
           "1494463355206": {
@@ -115,14 +108,13 @@
             "settings": {
               "title": "Contact",
               "show_email": false,
-              "show_number": true,
+              "show_number": false,
               "show_address": true,
               "show_social": true
             }
           }
         },
         "block_order": [
-          "fca90525-3f80-4cd5-9774-f0f8e7780b96",
           "73cea438-ccd5-4bae-a8fb-3293fad4657e",
           "1494463355206",
           "1494343958665"
