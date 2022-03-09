@@ -438,11 +438,10 @@
       },
       "1566456269728": {
         "type": "home-collection",
-        "disabled": true,
         "settings": {
-          "title": "USA Stocked",
+          "title": "New Products",
           "collection": "all",
-          "mobile_layout": "carousel",
+          "mobile_layout": "grid",
           "grid": 3,
           "grid_mobile": "1",
           "rows": 1,
@@ -811,19 +810,6 @@
           "row_reverse": false
         }
       },
-      "1625551825b457a29d": {
-        "type": "custom-banner",
-        "settings": {
-          "title_left": "",
-          "title_right": "",
-          "background_img": "shopify:\/\/shop_images\/shrouded-in-smoke.jpg",
-          "background_color": "#FFFFFF",
-          "title_color": "#ffffff",
-          "full_width": true,
-          "background_animation": false,
-          "circle_animation": true
-        }
-      },
       "1626756849bcce0941": {
         "type": "home-collection",
         "settings": {
@@ -911,6 +897,7 @@
       },
       "1626783422df673935": {
         "type": "custom-collection",
+        "disabled": true,
         "settings": {
           "collection_one": "metal-vape",
           "collection_two": "pipe-vape",
@@ -930,37 +917,26 @@
       "16255604901ee67471": {
         "type": "custom-feature-product",
         "blocks": {
-          "7d648c09-92ec-4667-a593-3282f2e088a9": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "feature_dropdown": "over_discharge"
-            }
-          },
           "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f": {
             "type": "collection",
-            "disabled": true,
             "settings": {
               "feature_dropdown": "over_current"
             }
           },
           "a04c5fec-1365-4d88-b785-661da79eb170": {
             "type": "collection",
-            "disabled": true,
             "settings": {
               "feature_dropdown": "over_seconds"
             }
           },
           "33a419c9-4cb8-435c-b0a9-e7338c07640d": {
             "type": "collection",
-            "disabled": true,
             "settings": {
               "feature_dropdown": "short_circuit"
             }
           }
         },
         "block_order": [
-          "7d648c09-92ec-4667-a593-3282f2e088a9",
           "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f",
           "a04c5fec-1365-4d88-b785-661da79eb170",
           "33a419c9-4cb8-435c-b0a9-e7338c07640d"
@@ -975,7 +951,6 @@
     },
     "content_for_index": [
       "1566456250311",
-      "1625551825b457a29d",
       "16255604901ee67471",
       "1626783422df673935",
       "1566456283593",
