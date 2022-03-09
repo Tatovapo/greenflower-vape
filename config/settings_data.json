@@ -8,7 +8,7 @@
     "color_button": "#111111",
     "product_grid_sale_color": "#c00000",
     "product_grid_bg": "#f0f0f0",
-    "color_drawer_bg": "#fef7d7",
+    "color_drawer_bg": "#ffffff",
     "color_drawer_style": "dark",
     "type_base_font": "nunito_n4",
     "type_base_size": "15",
@@ -146,12 +146,13 @@
         "type": "header",
         "settings": {
           "show_border": true,
-          "header_bg": "#222222",
-          "header_style": "light",
+          "header_bg": "#ffffff",
+          "header_style": "dark",
+          "logo": "shopify:\/\/shop_images\/Tat_Vape-Header_Logo-RED.png",
           "logo_size": 6,
           "logo_size_mobile": 6,
           "logo_spacing": 10,
-          "main_linklist": "",
+          "main_linklist": "main-menu",
           "layout": "left",
           "style": "scroll",
           "parent_links": true,
@@ -175,7 +176,7 @@
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_social": true,
-          "cta_image": "shopify:\/\/shop_images\/unnamed.jpg",
+          "cta_image": "shopify:\/\/shop_images\/Tat_Vape-Header_Logo-RED.png",
           "cta_image_link": "",
           "cta_title": "",
           "cta_text": "",
@@ -406,7 +407,6 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
-        "disabled": true,
         "blocks": {
           "73eb6441-3f51-41a9-9faa-e2259da559c2": {
             "type": "video",
@@ -803,7 +803,7 @@
           "main_text": "Tat vape offers a wide range of fully customizable options for your Brands needs and desires.",
           "background_color": "linear-gradient(to top, #222, #ff0000)",
           "title_color": "#faf4f4",
-          "subtitle_color": "#FFFFFF",
+          "subtitle_color": "#ffffff",
           "btn_label": "see all Products",
           "btn_url": "",
           "full_width": true,
@@ -1002,8 +1002,8 @@
       }
     },
     "content_for_index": [
-      "1625551825b457a29d",
       "1566456250311",
+      "1625551825b457a29d",
       "16255604901ee67471",
       "1626783422df673935",
       "1566456283593",
