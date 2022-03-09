@@ -419,11 +419,11 @@
           "b8e750b3-489c-4918-8511-350bcc596dca"
         ],
         "settings": {
-          "slideshow_style": "semi",
-          "title_size": 4,
+          "slideshow_style": "minimal",
+          "title_size": 3,
           "autoplay": true,
           "autoplay_speed": 5,
-          "slideshow_height": "medium",
+          "slideshow_height": "small",
           "slideshow_width": "full",
           "overlay_strength": 30
         }
@@ -573,16 +573,9 @@
           "message_color_text": "#ffffff"
         }
       },
-      "16254674647185a405": {
-        "type": "custom-e-vape",
-        "settings": {
-          "featured_product_title": "Choose Your E-Cigarette",
-          "product": "vape-product-2",
-          "prod_sub": ""
-        }
-      },
       "16254710837e8839ee": {
         "type": "custom-img-with-text",
+        "disabled": true,
         "blocks": {
           "1b514bb8-9459-4222-9632-b683839cd990": {
             "type": "text",
@@ -642,14 +635,6 @@
           "collection_four": "featured-collection",
           "collection_five": "metal-vape"
         }
-      },
-      "1626965193362c301c": {
-        "type": "home-rich-text",
-        "settings": {
-          "full_width": false,
-          "section_title": "",
-          "text": ""
-        }
       }
     },
     "content_for_index": [
@@ -658,9 +643,7 @@
       "1566460870233",
       "1566456269728",
       "1566460938967",
-      "16254674647185a405",
       "16254710837e8839ee",
-      "1626965193362c301c",
       "1566456346591",
       "1566456283593"
     ]
