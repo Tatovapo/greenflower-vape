@@ -29,8 +29,8 @@
     "product_grid_vendor": false,
     "product_grid_second_hover": true,
     "product_grid_quick_buy": "hover",
-    "product_grid_align": "center",
-    "product_grid_image_size": "crop-tall",
+    "product_grid_align": "left",
+    "product_grid_image_size": "crop-square",
     "product_grid_masonry": false,
     "product_grid_label": false,
     "product_grid_label_sale_style": "text",
@@ -38,8 +38,8 @@
     "product_grid_label_new_days": 14,
     "product_grid_label_title": "Hot",
     "product_grid_label_collection": "",
-    "product_grid_detail_style": "default",
-    "product_grid_price": false,
+    "product_grid_detail_style": "hover",
+    "product_grid_price": true,
     "product_grid_swatch": false,
     "product_grid_swatch_image": false,
     "product_grid_reviews": false,
@@ -425,7 +425,7 @@
           "autoplay_speed": 5,
           "slideshow_height": "small",
           "slideshow_width": "full",
-          "overlay_strength": 30
+          "overlay_strength": 50
         }
       },
       "1566456269728": {
@@ -434,7 +434,7 @@
           "title": "New Products",
           "collection": "all",
           "mobile_layout": "grid",
-          "grid": 3,
+          "grid": 4,
           "grid_mobile": "1",
           "rows": 1,
           "link_title": "View all",
@@ -489,30 +489,6 @@
           "link": ""
         }
       },
-      "1566456346591": {
-        "type": "home-map",
-        "blocks": {
-          "1566456346591-0": {
-            "type": "map",
-            "settings": {
-              "title": "TAT VAPE",
-              "desc": "<p>694 Te Atatu Road<br\/>Auckland Auckland<br\/>0610 New Zealand<br\/><a href=\"tel:02102261204\">(021) 022 61204<\/a><\/p>",
-              "sub_desc": "<p>MON - THU \/ 10:00am to 11:00pm<br\/>FRI - SAT \/ 10:00am to MID NIGHT<br\/>SUN \/ Closed<\/p>",
-              "address": "694 Te Atatu Road, Te Atatu Peninsula",
-              "map_image": "shopify:\/\/shop_images\/TAT_VAPE_-_Map_Location.jpg"
-            }
-          }
-        },
-        "block_order": [
-          "1566456346591-0"
-        ],
-        "settings": {
-          "show_directions_btn": true,
-          "bg_color": "#ffffff",
-          "google_api_key": "",
-          "map_style": "default"
-        }
-      },
       "list-collections-template": {
         "type": "list-collections-template",
         "settings": {
@@ -537,20 +513,21 @@
         "type": "home-image-text",
         "settings": {
           "section_full_width": true,
-          "image_alignment": "top",
-          "text": "<p>No matter which Vaping product you select, you'll find <strong>TAT VAPE <\/strong>suits your needs. Click below to browse all of our collections.<\/p>",
+          "image_alignment": "center",
+          "text": "<p><strong>NEW ZEALAND'S NEWEST VAPE STORE<\/strong><\/p><p>No matter which vaping product you select, you'll find <strong>TAT VAPE <\/strong>suits your needs. Click below to browse all of our collections.<\/p>",
           "inline_image_width": 200,
           "video": "",
           "link_title": "Shop Now",
           "link": "shopify:\/\/collections",
           "section_height": "small",
           "overlay_color": "#e4002d",
-          "overlay_strength": 40,
+          "overlay_strength": 100,
           "content_style": "light"
         }
       },
       "1566460938967": {
         "type": "home-delivery",
+        "disabled": true,
         "settings": {
           "image_alignment": "center",
           "delivery_service": "doordash",
@@ -573,79 +550,53 @@
           "message_color_text": "#ffffff"
         }
       },
-      "16254710837e8839ee": {
-        "type": "custom-img-with-text",
-        "disabled": true,
-        "blocks": {
-          "1b514bb8-9459-4222-9632-b683839cd990": {
-            "type": "text",
-            "settings": {
-              "text": "Vape Devices"
-            }
-          },
-          "3547e7d8-37c1-492b-bda7-58dff05d8b52": {
-            "type": "text",
-            "settings": {
-              "text": "E-Liquds"
-            }
-          },
-          "0ca12c69-54ca-492c-b6dd-9116bfb6a09c": {
-            "type": "text",
-            "settings": {
-              "text": "Shisha \/ Hookah"
-            }
-          },
-          "bd696b82-b867-432d-9c4f-6942fad597db": {
-            "type": "text",
-            "settings": {
-              "text": "Disposable Vapes"
-            }
-          },
-          "ab924ac6-b243-4c49-bca8-01cf2be0aa9e": {
-            "type": "text",
-            "settings": {
-              "text": "Pods & Coils"
-            }
-          }
-        },
-        "block_order": [
-          "1b514bb8-9459-4222-9632-b683839cd990",
-          "3547e7d8-37c1-492b-bda7-58dff05d8b52",
-          "0ca12c69-54ca-492c-b6dd-9116bfb6a09c",
-          "bd696b82-b867-432d-9c4f-6942fad597db",
-          "ab924ac6-b243-4c49-bca8-01cf2be0aa9e"
-        ],
+      "16468609160553fadb": {
+        "type": "home-collection",
         "settings": {
-          "main_text": "Tat vape offers a wide range of fully customizable options for your Brands needs and desires.",
-          "background_color": "linear-gradient(to top, #222, #ff0000)",
-          "title_color": "#faf4f4",
-          "subtitle_color": "#ffffff",
-          "btn_label": "see all Products",
-          "btn_url": "",
-          "full_width": true,
-          "row_reverse": false
+          "title": "E-JUICE RANGE",
+          "collection": "",
+          "mobile_layout": "carousel",
+          "grid": 4,
+          "grid_mobile": "1",
+          "rows": 1,
+          "link_title": "View all",
+          "link": ""
         }
       },
-      "1626783422df673935": {
-        "type": "custom-collection",
+      "16468612280ca54071": {
+        "type": "home-rich-text",
         "settings": {
-          "collection_one": "metal-vape",
-          "collection_two": "pipe-vape",
-          "collection_three": "all",
-          "collection_four": "featured-collection",
-          "collection_five": "metal-vape"
+          "full_width": false,
+          "section_title": "",
+          "text": ""
+        }
+      },
+      "1646861452cabb5887": {
+        "type": "home-image-text",
+        "settings": {
+          "bg_image": "shopify:\/\/shop_images\/Our_Brands.jpg",
+          "section_full_width": true,
+          "image_alignment": "center",
+          "text": "<p><strong>OUR BRANDS<\/strong><\/p>",
+          "inline_image_width": 50,
+          "link_title": "Learn more",
+          "link": "",
+          "section_height": "medium",
+          "overlay_color": "#ffffff",
+          "overlay_strength": 0,
+          "content_style": "dark"
         }
       }
     },
     "content_for_index": [
       "1566456250311",
-      "1626783422df673935",
-      "1566460870233",
       "1566456269728",
-      "1566460938967",
-      "16254710837e8839ee",
-      "1566456346591",
-      "1566456283593"
+      "1566460870233",
+      "16468612280ca54071",
+      "16468609160553fadb",
+      "1646861452cabb5887",
+      "1566456283593",
+      "1566460938967"
     ]
   },
   "presets": {
