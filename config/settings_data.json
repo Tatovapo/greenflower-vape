@@ -187,7 +187,7 @@
       "promo-pop": {
         "type": "promo-pop",
         "settings": {
-          "enable": true,
+          "enable": false,
           "mobile": false,
           "title": "JOIN THE NEWSLETTER",
           "text": "<p>Subscribe to Our newsletter to receive the latest news and offers from<br\/>our team.<\/p>",
