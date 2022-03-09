@@ -202,8 +202,8 @@
         "type": "age-checker",
         "settings": {
           "enable": true,
-          "title": "Age verification",
-          "text": "<p>By clicking enter you are verifying that you are over 18<\/p>",
+          "title": "Are you over the age of 18?",
+          "text": "<p>This website contains products that are only suitable for those over 18 years, by clicking enter you confirm that you are of 18 years of age.<\/p>",
           "enter_btn_label": "Enter",
           "leave_btn_label": "Leave",
           "leave_link": ""
@@ -451,6 +451,7 @@
       },
       "1566456283593": {
         "type": "home-testimonials",
+        "disabled": true,
         "blocks": {
           "1566456283593-0": {
             "type": "text",
@@ -496,74 +497,8 @@
           "link": ""
         }
       },
-      "1566456304723": {
-        "type": "home-content",
-        "disabled": true,
-        "blocks": {
-          "1566456304723-0": {
-            "type": "image",
-            "settings": {
-              "bg_color": "#f0f0f0",
-              "title": "Complete freedom in design & customization",
-              "desc": "<p>We allow you complete control over the design and development product - in order to create a product that correctly conveys your brand. Our product design studio works with you to transform your brand vision into a remarkable vaping experience. Whether you have an in-house team and require basic guidance or you need us to design the entire product from start to finish - we got you covered. <\/p>",
-              "video": "",
-              "link_title": "More info",
-              "link": ""
-            }
-          },
-          "1566456304723-1": {
-            "type": "image",
-            "settings": {
-              "bg_color": "#ffffff",
-              "title": "Complete Testing Protocol",
-              "desc": "<p>Before your product is mass-produced, we work closely with your team to ensure that the hardware you selected is a good fit for your process and most importantly - your concentrate. To ensure this, our client services team works with you to implement a rigorous testing protocol and gather any feedback that will allow us to perfect the end product for your specific application. <\/p>",
-              "video": "",
-              "link_title": "More info",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1566456304723-0",
-          "1566456304723-1"
-        ],
-        "settings": {
-        }
-      },
-      "1566456319558": {
-        "type": "home-video",
-        "disabled": true,
-        "blocks": {
-          "1566456319558-0": {
-            "type": "video",
-            "settings": {
-              "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-              "video_title": ""
-            }
-          },
-          "1566456319558-1": {
-            "type": "video",
-            "settings": {
-              "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-              "video_title": ""
-            }
-          }
-        },
-        "block_order": [
-          "1566456319558-0",
-          "1566456319558-1"
-        ],
-        "settings": {
-          "title": "Video gallery",
-          "desc": "",
-          "link_title": "More videos",
-          "link": "",
-          "overlay_strength": 50
-        }
-      },
       "1566456346591": {
         "type": "home-map",
-        "disabled": true,
         "blocks": {
           "1566456346591-0": {
             "type": "map",
@@ -607,126 +542,22 @@
       },
       "1566460870233": {
         "type": "home-image-text",
-        "disabled": true,
         "settings": {
           "section_full_width": true,
           "image_alignment": "top",
-          "text": "<p>No matter which Vaping product you select, you'll find <strong>Green Flower Vape <\/strong>suits your needs. Click below to browse all of our collections.<\/p>",
+          "text": "<p>No matter which Vaping product you select, you'll find <strong>TAT VAPE <\/strong>suits your needs. Click below to browse all of our collections.<\/p>",
           "inline_image_width": 200,
           "video": "",
-          "link_title": "Learn more",
+          "link_title": "Shop Now",
           "link": "shopify:\/\/collections",
           "section_height": "small",
-          "overlay_color": "#333333",
+          "overlay_color": "#e4002d",
           "overlay_strength": 40,
           "content_style": "light"
         }
       },
-      "1566460897951": {
-        "type": "home-events",
-        "disabled": true,
-        "blocks": {
-          "18c6bc50-dbdd-403d-aaf7-70fa1e130a36": {
-            "type": "event",
-            "settings": {
-              "title": "Global Forum on Nicotine 2021",
-              "subheading": "Denver",
-              "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
-              "link": "shopify:\/\/blogs\/news"
-            }
-          },
-          "313367b1-c4a4-452b-8b23-cb87f407d07e": {
-            "type": "event",
-            "settings": {
-              "title": "National Vape Expo",
-              "subheading": "Liverpool",
-              "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
-              "link": "shopify:\/\/blogs\/news"
-            }
-          },
-          "75132f19-37c2-4d99-8089-4c6ffccccebb": {
-            "type": "event",
-            "settings": {
-              "title": "Tobacco Research Conference",
-              "subheading": "Zürich",
-              "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
-              "link": "shopify:\/\/blogs\/news"
-            }
-          },
-          "9f5a0681-bc6e-49b2-b94f-98f354659fc9": {
-            "type": "event",
-            "settings": {
-              "title": "The HempWorld Expo",
-              "subheading": "Berlin",
-              "desc": "<p>9 OCT AT 22:00 UTC+06 <\/p>",
-              "link": "shopify:\/\/blogs\/news"
-            }
-          }
-        },
-        "block_order": [
-          "18c6bc50-dbdd-403d-aaf7-70fa1e130a36",
-          "313367b1-c4a4-452b-8b23-cb87f407d07e",
-          "75132f19-37c2-4d99-8089-4c6ffccccebb",
-          "9f5a0681-bc6e-49b2-b94f-98f354659fc9"
-        ],
-        "settings": {
-          "title": "Events and conferences",
-          "desc": "",
-          "link_title": "View all",
-          "link": "",
-          "mobile_layout": "carousel",
-          "bg_color": "#222222",
-          "overlay_strength": 50,
-          "api_key": "",
-          "events_limit": 2,
-          "show_link": true
-        }
-      },
-      "1566460912234": {
-        "type": "home-text-columns",
-        "disabled": true,
-        "blocks": {
-          "1566460912234-0": {
-            "type": "text",
-            "settings": {
-              "title": "Atomizer",
-              "sub_title": "",
-              "desc": "<p>An “atomizer” used to refer to the coil of any vape tank, the part that is responsible for vaporizing e-liquid.<\/p>"
-            }
-          },
-          "1566460912234-1": {
-            "type": "text",
-            "settings": {
-              "title": "Clearomizer",
-              "sub_title": "",
-              "desc": "<p>Clearomizers usually comprise of a glass or plastic clear tank, a replaceable coil, a chimney, and a mouthpiece.<\/p>"
-            }
-          },
-          "1566460912234-2": {
-            "type": "text",
-            "settings": {
-              "title": "cartomizer",
-              "sub_title": "",
-              "desc": "<p>A cartomizer is a vaping device that attaches to the end of a battery. They are also commonly referred to as cigalikes or just e-cigarettes. <\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1566460912234-0",
-          "1566460912234-1",
-          "1566460912234-2"
-        ],
-        "settings": {
-          "title": "Vaping Devices We Sell",
-          "desc": "",
-          "content_align": "center",
-          "link_title": "All Products",
-          "link": "shopify:\/\/collections\/all"
-        }
-      },
       "1566460938967": {
         "type": "home-delivery",
-        "disabled": true,
         "settings": {
           "image_alignment": "center",
           "delivery_service": "doordash",
@@ -751,7 +582,6 @@
       },
       "16254674647185a405": {
         "type": "custom-e-vape",
-        "disabled": true,
         "settings": {
           "featured_product_title": "Choose Your E-Cigarette",
           "product": "vape-product-2",
@@ -810,94 +640,8 @@
           "row_reverse": false
         }
       },
-      "1626756849bcce0941": {
-        "type": "home-collection",
-        "settings": {
-          "title": "Vape Devices",
-          "collection": "all",
-          "mobile_layout": "carousel",
-          "grid": 3,
-          "grid_mobile": "1",
-          "rows": 1,
-          "link_title": "View all Vape Cartridges",
-          "link": "shopify:\/\/collections\/all"
-        }
-      },
-      "1626756981bf0a3f88": {
-        "type": "home-collection",
-        "settings": {
-          "title": "SHisha \/ Hookah",
-          "collection": "pipe-vape",
-          "mobile_layout": "carousel",
-          "grid": 3,
-          "grid_mobile": "1",
-          "rows": 1,
-          "link_title": "View all Disposables",
-          "link": "shopify:\/\/collections\/pipe-vape"
-        }
-      },
-      "1626757837fddad0c1": {
-        "type": "home-collection",
-        "settings": {
-          "title": "Disposable Vapes",
-          "collection": "metal-vape",
-          "mobile_layout": "carousel",
-          "grid": 3,
-          "grid_mobile": "1",
-          "rows": 1,
-          "link_title": "View all Batteries",
-          "link": "shopify:\/\/collections\/metal-vape"
-        }
-      },
-      "162675808293b66050": {
-        "type": "custom-img-with-text",
-        "disabled": true,
-        "blocks": {
-          "81c5e0a4-af1d-4cc3-981d-5b64dfe6177e": {
-            "type": "text",
-            "settings": {
-              "text": "Consistently reliable"
-            }
-          },
-          "b5b9c303-d7fa-429a-af84-ddf15901b5a5": {
-            "type": "text",
-            "settings": {
-              "text": "Consumer safe materials"
-            }
-          },
-          "8bfe5aa1-e5b8-4695-b9db-b20becdcb10d": {
-            "type": "text",
-            "settings": {
-              "text": "No-Burn technology"
-            }
-          },
-          "57b35551-896d-4ac3-a1ca-f980860b61f0": {
-            "type": "text",
-            "settings": {
-              "text": "Designed by oil specialists"
-            }
-          }
-        },
-        "block_order": [
-          "81c5e0a4-af1d-4cc3-981d-5b64dfe6177e",
-          "b5b9c303-d7fa-429a-af84-ddf15901b5a5",
-          "8bfe5aa1-e5b8-4695-b9db-b20becdcb10d",
-          "57b35551-896d-4ac3-a1ca-f980860b61f0"
-        ],
-        "settings": {
-          "main_text": "Cartridges, disposables, and batteries you can bank on",
-          "background_color": "linear-gradient(to top, #000, #013b81)",
-          "title_color": "#ffffff",
-          "subtitle_color": "#eeff9f",
-          "btn_label": "",
-          "btn_url": "#",
-          "full_width": true,
-          "row_reverse": true
-        }
-      },
       "1626783422df673935": {
         "type": "custom-collection",
-        "disabled": true,
         "settings": {
           "collection_one": "metal-vape",
           "collection_two": "pipe-vape",
@@ -913,62 +657,19 @@
           "section_title": "",
           "text": ""
         }
-      },
-      "16255604901ee67471": {
-        "type": "custom-feature-product",
-        "blocks": {
-          "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "over_current"
-            }
-          },
-          "a04c5fec-1365-4d88-b785-661da79eb170": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "over_seconds"
-            }
-          },
-          "33a419c9-4cb8-435c-b0a9-e7338c07640d": {
-            "type": "collection",
-            "settings": {
-              "feature_dropdown": "short_circuit"
-            }
-          }
-        },
-        "block_order": [
-          "ebd0aaeb-f381-44bc-b9a8-b61e485cbf9f",
-          "a04c5fec-1365-4d88-b785-661da79eb170",
-          "33a419c9-4cb8-435c-b0a9-e7338c07640d"
-        ],
-        "settings": {
-          "section_title": "TAT vape Products",
-          "section_subtitle": "",
-          "color": "#ff0000",
-          "background_color": ""
-        }
       }
     },
     "content_for_index": [
       "1566456250311",
-      "16255604901ee67471",
       "1626783422df673935",
-      "1566456283593",
-      "1566456304723",
-      "1566456269728",
       "1566460870233",
-      "1566456319558",
-      "1566460912234",
-      "1566460897951",
+      "1566456269728",
       "1566460938967",
       "16254674647185a405",
       "16254710837e8839ee",
       "1626965193362c301c",
       "1566456346591",
-      "1626756849bcce0941",
-      "1626756981bf0a3f88",
-      "1626757837fddad0c1",
-      "162675808293b66050"
+      "1566456283593"
     ]
   },
   "presets": {
