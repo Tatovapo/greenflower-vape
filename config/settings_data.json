@@ -495,10 +495,11 @@
           "1566456346591-0": {
             "type": "map",
             "settings": {
-              "title": "Map 1",
-              "desc": "<p>273 Street Lane<br\/>San Francisco, CA 94102<br\/>(415) 557-4400<br\/>store@email.com<\/p>",
-              "sub_desc": "<p>Monday - Thursday, 12:00 to 23:00<br\/>Friday & Saturday, 12:00 to 00:00<br\/>Sunday, Closed<\/p>",
-              "address": "100 Larkin St, San Francisco, CA 94102, USA"
+              "title": "TAT VAPE",
+              "desc": "<p>694 Te Atatu Road<br\/>Auckland Auckland<br\/>0610 New Zealand<br\/><a href=\"tel:02102261204\">(021) 022 61204<\/a><\/p>",
+              "sub_desc": "<p>MON - THU \/ 10:00am to 11:00pm<br\/>FRI - SAT \/ 10:00am to MID NIGHT<br\/>SUN \/ Closed<\/p>",
+              "address": "694 Te Atatu Road, Te Atatu Peninsula",
+              "map_image": "shopify:\/\/shop_images\/TAT_VAPE_-_Map_Location.jpg"
             }
           }
         },
@@ -507,7 +508,7 @@
         ],
         "settings": {
           "show_directions_btn": true,
-          "bg_color": "#f0f0f0",
+          "bg_color": "#ffffff",
           "google_api_key": "",
           "map_style": "default"
         }
