@@ -408,22 +408,23 @@
       "1566456250311": {
         "type": "home-slideshow",
         "blocks": {
-          "73eb6441-3f51-41a9-9faa-e2259da559c2": {
-            "type": "video",
+          "b8e750b3-489c-4918-8511-350bcc596dca": {
+            "type": "image",
             "settings": {
-              "video_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0577\/5812\/2164\/files\/pexels-ivan-samkov-6962491_d3d8e90b-0411-483e-9f60-1ebbc5b6d3c9.mp4?v=1625649951",
-              "yt_link": "",
-              "alignment": "right",
+              "image": "shopify:\/\/shop_images\/TAT_VAPE-Hero-Store.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/TAT_VAPE-Hero-Store-Mobile.jpg",
+              "image_alignment": "center",
+              "alignment": "left",
               "text_color": "default",
-              "title": "VAPE Cartridges",
-              "text": "<p>Our fully enclosed heating elements preserve the oil flavor you proudly produce<\/p>",
-              "link_title": "Shop Now",
-              "link": "shopify:\/\/collections"
+              "title": "OPEN NOW",
+              "text": "<p>We're <strong>NOW OPEN<\/strong> at 694 Te Atatu Road. <\/p>",
+              "link_title": "FIND US",
+              "link": "shopify:\/\/pages\/contact"
             }
           }
         },
         "block_order": [
-          "73eb6441-3f51-41a9-9faa-e2259da559c2"
+          "b8e750b3-489c-4918-8511-350bcc596dca"
         ],
         "settings": {
           "slideshow_style": "semi",
