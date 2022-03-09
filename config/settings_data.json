@@ -742,10 +742,10 @@
         "type": "announcement",
         "settings": {
           "message_show": false,
-          "home_page_only": false,
+          "home_page_only": true,
           "message_text": "Use this announcement bar to share some news and link to page or product.",
           "message_link": "",
-          "message_color_bg": "#222222",
+          "message_color_bg": "#e4002d",
           "message_color_text": "#ffffff"
         }
       },
