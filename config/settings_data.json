@@ -154,7 +154,7 @@
           "logo_spacing": 10,
           "main_linklist": "main-menu",
           "layout": "left",
-          "style": "scroll",
+          "style": "sticky",
           "parent_links": true,
           "mega_nav": false,
           "mega_image_link": "",
@@ -812,40 +812,11 @@
       },
       "1625551825b457a29d": {
         "type": "custom-banner",
-        "blocks": {
-          "01e78a1c-1ad8-46f3-8c57-ed88b5adf5c7": {
-            "type": "product",
-            "settings": {
-              "product_image": "shopify:\/\/shop_images\/Logo1.jpg"
-            }
-          },
-          "38e7be11-81de-4d80-8d4f-71a7c5cbd430": {
-            "type": "product",
-            "settings": {
-            }
-          },
-          "ed3b8b0a-940d-47fd-817c-0bfc49c5a846": {
-            "type": "product",
-            "settings": {
-            }
-          },
-          "c768b7ec-6a3f-4573-bc0f-18475ffcc0dd": {
-            "type": "product",
-            "settings": {
-            }
-          }
-        },
-        "block_order": [
-          "01e78a1c-1ad8-46f3-8c57-ed88b5adf5c7",
-          "38e7be11-81de-4d80-8d4f-71a7c5cbd430",
-          "ed3b8b0a-940d-47fd-817c-0bfc49c5a846",
-          "c768b7ec-6a3f-4573-bc0f-18475ffcc0dd"
-        ],
         "settings": {
-          "title_left": "your one stop shop for your vape needs",
+          "title_left": "",
           "title_right": "",
           "background_img": "shopify:\/\/shop_images\/shrouded-in-smoke.jpg",
-          "background_color": "#FF0000",
+          "background_color": "#FFFFFF",
           "title_color": "#ffffff",
           "full_width": true,
           "background_animation": false,
