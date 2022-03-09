@@ -581,7 +581,7 @@
           "inline_image_width": 50,
           "link_title": "Learn more",
           "link": "",
-          "section_height": "medium",
+          "section_height": "small",
           "overlay_color": "#ffffff",
           "overlay_strength": 0,
           "content_style": "dark"
